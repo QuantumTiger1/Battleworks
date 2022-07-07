@@ -12,7 +12,7 @@ Tags: Feature, Mechanic change, Visual change. Priority 1-5
 
 **Bug format**:
 
-Descritpion: Flying around.
+Description: Flying around.
 
 Hardware:
 HTC vive, steam VR, Index Controllers.
