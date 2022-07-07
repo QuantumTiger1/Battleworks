@@ -1,6 +1,6 @@
 ### Battleworks
 
-Feature format:
+**Feature format**:
 
 Hardware:
 HTC vive, steam VR, Index Controllers.
@@ -13,7 +13,7 @@ Tags: Feature, Mechanic change, Visual change. Priority 1-5
 
 
 
-Bug format:
+**Bug format**:
 
 Descritpion: Flying around.
 
