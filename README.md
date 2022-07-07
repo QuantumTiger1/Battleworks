@@ -1,12 +1,15 @@
-# Battleworks
+### Battleworks
 
-Feature format:
+#Feature format:
+
+Hardware:
+HTC vive, steam VR, Index Controllers.
 
 Description: Bigger guns or new way of holding them
 
 Tags: Feature, Mechanic change, Visual change. Priority 1-5
 
-Bug format:
+#Bug format:
 
 Descritpion: Flying around.
 
